@@ -1,0 +1,9 @@
+.metadata
+*.elf
+*.list
+*.map
+*.stdout
+*.su
+*.cyclo
+*.d
+*.o
